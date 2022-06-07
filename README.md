@@ -1,8 +1,6 @@
 # MainNet
 The Ultron mainnet is a fast, high-throughput open-source smart contract platform for digital assets and dApps.
 
-Public documentation.
-
 Public documentation of the Ultron.
 
 Mainnet parameters.
